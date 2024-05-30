@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CODERConfused
+- 👋 Hi, I’m @MiddleHigh
 - 👀 I’m interested in programming.
 - 😄 Pronouns: he/him
 
