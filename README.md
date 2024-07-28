@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate programmer with a keen interest
 - Interests: Programming, Data Science, Machine Learning
 - Pronouns: he/him
 - Current Focus: Developing innovative data science solutions and sharing them on Kaggle.
-- 
+
 ## 📚 My Repositories
 Here are some of the key projects I’m working on:
 
