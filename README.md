@@ -18,7 +18,7 @@ Predictions: Explore predictive analytics for investment strategies (in progress
 Chatbot: An upcoming feature to assist users with their queries.
 
 ## My Activity
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=coderconfused" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CODERConfused" alt="GitHub Streak" /></a>
 
 <!---
 CODERConfused/CODERConfused is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
