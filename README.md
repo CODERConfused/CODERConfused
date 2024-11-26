@@ -4,18 +4,6 @@
   <i>Welcome to my GitHub profile! I'm a passionate software engineer and data enthusiast.</i>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/MiddleHigh" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/MiddleHigh?style=social&logo=twitter" alt="Follow me on Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/middlehigh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=social&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://medium.com/@middlehigh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=social&logo=medium" alt="Follow me on Medium" />
-  </a>
-</p>
-
 <h2 align="center">🔍 About Me</h2>
 
 <p align="center">
