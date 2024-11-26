@@ -101,29 +101,9 @@
 
 ---
 
-<h2 align="center">🌱 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://twitter.com/MiddleHigh" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/MiddleHigh?style=flat&logo=twitter&logoColor=white" alt="Follow me on Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/middlehigh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://medium.com/@middlehigh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Follow me on Medium" />
-  </a>
-  <a href="mailto:middlehigh@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
-</p>
-
----
-
 <h2 align="center">🔗 Other Resources</h2>
 
 - **Kaggle**: Explore my [Kaggle profile](https://www.kaggle.com/MiddleHigh) for data science competitions and kernels.
-- **Medium**: Read my latest articles on [Medium](https://medium.com/@middlehigh).
 - **Personal Website**: Visit my [portfolio](https://middlehigh.dev) (coming soon).
 
 ---
