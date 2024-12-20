@@ -11,8 +11,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiddleHigh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiddleHigh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CODERConfused&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODERConfused&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/MiddleHigh">
-    <img src="https://komarev.com/ghpvc/?username=MiddleHigh&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=CODERConfused&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -80,11 +80,11 @@
 <h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiddleHigh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CODERConfused&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiddleHigh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODERConfused&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
